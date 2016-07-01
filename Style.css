@@ -1,0 +1,323 @@
+
+body{
+    background-color: rgba(384, 445, 197, 237.3);
+   // background-image: url("images/lords.jpg");
+   // background-repeat: no-repeat;
+  
+}
+#first::first-letter{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 155px;
+}
+.Image-bar{
+    margin: 5px;
+    border: 2px solid black;
+    width: 100%;
+    height: 245px;
+}
+.Heading-Website{
+    
+    font-size: 3em;
+    max-width: 77%;
+    margin-left: 69px
+}
+.cricket-image{
+    
+    margin-left: 945px;
+    margin-top: -305px;
+}
+.center{
+    
+    margin: 10px;
+    border: 2px solid black;
+    height: 1355px;
+    margin-top: -1087px;
+    margin-left: 270px;
+   
+    max-width: 100%;
+    
+}
+.first-inner-center{
+    
+    margin: 10px;
+    border: 2px solid black;
+    height: 1329px;
+    
+   
+    max-width: 66%;
+    
+}
+.inner-center-main-heading{
+    margin: 18px;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    height: 30px;
+    width: 383px;
+    padding-left: 252px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.txt{
+    margin: 20px;
+    border: 1px solid black;
+    height: 436px;
+}
+.boycat-image{
+    
+    margin-top: -377px;
+    margin-left: 262px;
+
+    
+}
+.size{
+    
+        width: 380px;
+    height: 426px;
+
+}
+.don-postion{
+    margin-top: -224px;
+    margin-left: 395px;
+}
+.don-image{
+    
+      width: 253px;
+    height: 213px;
+
+}
+.paragrap{
+    
+    max-width: 36%;
+    margin: 20px;
+}
+.videos{
+     margin: 20px;
+    border: 1px solid black;
+    height: 233px;
+    
+}
+.second-inner-center{
+    
+    margin: 10px;
+    border: 2px solid black;
+  //  background-color: whitesmoke;
+    margin-left: 716px;
+    height: 255px;
+    margin-top: -1342px;
+    
+   
+    max-width: 30%;
+    
+}
+.login{
+    margin: 10px;
+    margin-top: -12px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    height: 20px;
+}
+.heading-login{
+    font-size: 19px;
+    margin-top: -26px;
+    margin-left: 113px;
+}
+.setting{
+    margin-left: 36px;
+}
+.login-button-setting{
+    margin-left: 179px;
+    width: 70px;
+    height: 31px;
+    color: azure;
+}
+.third-inner-center{
+    
+    margin: 10px;
+    border: 2px solid black;
+    margin-left: 716px;
+    height: 255px;
+    margin-top: 21px;
+    
+   
+    max-width: 30%;
+    
+}
+.popular{
+    margin: 10px;
+    margin-top: 7px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    height: 20px;
+}
+.heading-popular{
+    font-size: 19px;
+    margin-top: -26px;
+    margin-left: 113px;
+}
+.heading-visit{
+    font-size: 19px;
+    margin-top: -27px;
+    margin-left: 48px;
+
+}
+.heading-polling{
+    font-size: 19px;
+    margin-top: -27px;
+    margin-left: 105px;
+
+}
+.fourth-inner-center{
+    
+  margin: 10px;
+    border: 2px solid black;
+    margin-left: -1px;
+    height: 255px;
+    margin-top: 241px;
+    max-width: 99%;
+    width: 331px;
+    
+}
+.visit-site-text{
+    
+    margin: 20px;
+    max-width: 90%;
+    font-family: serif;
+}
+.fifth-inner-center{
+    
+  margin: 10px;
+    border: 2px solid black;
+    margin-left: -1px;
+    height: 255px;
+    margin-top: 17px;
+    max-width: 99%;
+    width: 331px;
+    
+}
+.sixth-inner-center{
+    
+  margin: 10px;
+    border: 2px solid black;
+    margin-left: -1px;
+    height: 221px;
+    margin-top: 17px;
+    max-width: 99%;
+    width: 331px;
+
+    
+}
+.high-lights{
+    
+    margin: 10px;
+    height: 209px;
+    max-width: 60%;
+    
+}
+.sidebar{
+    
+    margin: 5px;
+    margin-top: 30px;
+    border: 4px solid black;
+    height: 1060px;
+    max-width: 19%;
+    min-width: 19%;
+    
+}
+
+
+.first-inner-Side-bar{
+    margin: 1px;
+    border: 2px solid black;
+    height: 450px;
+    
+}
+.header-siderbar
+{
+   border: 1px solid black;
+    height: 28px;
+    background-color: whitesmoke;
+    margin: 5px;
+    border-radius: 6px;
+}
+.header-components{
+    margin: 2px;
+    border: 1px solid black;
+    height: 91%;
+    
+    
+}
+li{
+    display: block;
+    margin-left: -40px;
+    height: 1.8em;;
+     border: 2px inset black;
+     max-width: 122%;
+     text-align: center;
+     font-family: fantasy;
+     font-size: 16px;
+     
+    
+}
+.ranking{
+   font-size: 26px;
+    font-family: cursive;
+    margin: -6px;
+    margin-left: 17px;
+}
+.second-inner-Side-bar{
+    margin: 20px;
+    border: 2px solid black;
+    height: 36px;
+    background-color: whitesmoke;
+    
+}
+.live{
+    margin: 08px;
+    font-size: 25px;
+    margin-top: 2px;
+}
+.third-inner-Side-bar{
+    margin: 20px;
+    border: 2px solid black;
+    height: 230px;
+    
+}
+.search-header{
+    border: 2px solid black;
+    margin: 1px;
+    height: 29px;
+    background-color: whitesmoke;
+    
+}
+.search-player{
+    border: 2px solid black;
+    margin: 2px;
+    height: 188px;
+    
+}
+.player{
+    margin: 20px;
+}
+.about{
+    margin: 70px;
+    margin-left: 65px;
+}
+.Contacts{
+    margin: 10px;
+    max-width: 90%;
+    border: 2px solid black;
+    height: 195px;
+    color: antiquewhite;
+    
+}
+.radio{
+    margin: 14px;
+    
+}
+.fourth-inner-Side-bar{
+    margin: 20px;
+    border: 2px solid black;
+    height: 230px;
+    
+}
